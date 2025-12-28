@@ -1,5 +1,9 @@
+import AuthLayout from "@/app/(auth)/layout";
+
 export default function Register() {
     return (
-        <div></div>
+        <AuthLayout>
+            Register
+        </AuthLayout>
     )
 }

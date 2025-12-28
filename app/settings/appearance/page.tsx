@@ -1,5 +1,7 @@
 export default function Appearance() {
     return (
-        <div></div>
+        <div>
+            Appearance
+        </div>
     )
 }

@@ -1,5 +1,9 @@
+import AuthLayout from "@/app/(auth)/layout";
+
 export default function ForgotPassword() {
     return (
-        <div></div>
+        <AuthLayout>
+            Forgot Password
+        </AuthLayout>
     )
 }

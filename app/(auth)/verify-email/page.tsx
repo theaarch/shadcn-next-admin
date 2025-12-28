@@ -1,5 +1,9 @@
+import AuthLayout from "@/app/(auth)/layout";
+
 export default function VerifyEmail() {
     return (
-        <div></div>
+        <AuthLayout>
+            Verify Email
+        </AuthLayout>
     )
 }

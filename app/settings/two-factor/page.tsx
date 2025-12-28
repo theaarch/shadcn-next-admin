@@ -1,5 +1,7 @@
 export default function TwoFactor() {
     return (
-        <div></div>
+        <div>
+            Two Factor
+        </div>
     )
 }

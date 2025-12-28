@@ -1,5 +1,9 @@
+import AuthLayout from "@/app/(auth)/layout";
+
 export default function ResetPassword() {
     return (
-        <div></div>
+        <AuthLayout>
+            Reset Password
+        </AuthLayout>
     )
 }
